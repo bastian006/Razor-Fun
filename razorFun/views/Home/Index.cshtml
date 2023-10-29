@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Razor Fun</title>
+</head>
+<body>
+        @{
+            string[] platos = {"Apple Pie", "Burritos", "Clams Casino", "Donuts"};
+
+            foreach(string plato in platos)
+            {
+                if(plato.StarsWith("C")){
+                    <p style="color:Red">♠@plato</p>
+                }else{
+                    <p>@plato</p>
+                }
+
+            }
+        }
+</body>
+</html>

@@ -1,0 +1,8 @@
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Razor-Fun\razorFun\obj\Debug\net6.0\razorFun.csproj.AssemblyReference.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Razor-Fun\razorFun\obj\Debug\net6.0\razorFun.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Razor-Fun\razorFun\obj\Debug\net6.0\razorFun.AssemblyInfoInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Razor-Fun\razorFun\obj\Debug\net6.0\razorFun.AssemblyInfo.cs
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Razor-Fun\razorFun\obj\Debug\net6.0\razorFun.csproj.CoreCompileInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Razor-Fun\razorFun\obj\Debug\net6.0\razorFun.MvcApplicationPartsAssemblyInfo.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Razor-Fun\razorFun\obj\Debug\net6.0\razorFun.RazorAssemblyInfo.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Razor-Fun\razorFun\obj\Debug\net6.0\razorFun.RazorAssemblyInfo.cs
